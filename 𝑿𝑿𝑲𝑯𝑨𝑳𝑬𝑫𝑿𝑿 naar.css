@@ -22,7 +22,7 @@
 
 
 .video-container {
-  width: 800px;
+  width: 3000px;
   border-radius: 4px;
   margin: 0 auto;
   position: relative;
@@ -159,10 +159,10 @@ button * {
 .naar-𝑿𝑿𝑲𝑯𝑨𝑳𝑬𝑫𝑿𝑿 {
   color: beige;
   position: fixed;
-  left: 89px;
+  left: 9px;
   width: 10px;
   
-  top: 2px;
+  top: 14px;
 }
 
 .naar_codes {
@@ -308,3 +308,6 @@ svg {
 
 
 
+body {
+  background: lightblue;
+}
